@@ -1,0 +1,383 @@
+{
+  "Categories": [
+    {
+      "PartMain": "A马克思、列宁、毛泽东、邓小平理论",
+      "PartID": "A",
+      "list": [
+        { "PartSec": "A1马克思、恩格斯著作", "PartSecID": "A1" },
+        { "PartSec": "A2列宁著作", "PartSecID": "A2" },
+        { "PartSec": "A3斯大林著作", "PartSecID": "A3" },
+        { "PartSec": "A4毛泽东著作", "PartSecID": "A4" },
+        { "PartSec": "A49邓小平著作", "PartSecID": "A49" },
+        {
+          "PartSec": "A5马克思、恩格斯、列宁、斯大林、毛泽东、邓小平著作汇编",
+          "PartSecID": "A5"
+        },
+        {
+          "PartSec": "A7马克思、恩格斯、列宁、斯大林、毛泽东、邓小平生平和传记",
+          "PartSecID": "A7"
+        },
+        {
+          "PartSec": "A8马克思主义、列宁主义、毛泽东思想、邓小平理论的学习和研究",
+          "PartSecID": "A8"
+        }
+      ]
+    },
+    {
+      "PartMain": "B哲学、宗教",
+      "PartID": "B",
+      "list": [
+        { "PartSec": "B0哲学理论", "PartSecID": "B0" },
+        { "PartSec": "B1世界哲学", "PartSecID": "B1" },
+        { "PartSec": "B2中国哲学", "PartSecID": "B2" },
+        { "PartSec": "B3亚洲哲学", "PartSecID": "B3" },
+        { "PartSec": "B4非洲哲学", "PartSecID": "B4" },
+        { "PartSec": "B5欧洲哲学", "PartSecID": "B5" },
+        { "PartSec": "B6大洋州哲学", "PartSecID": "B6" },
+        { "PartSec": "B7美洲哲学", "PartSecID": "B7" },
+        { "PartSec": "B80思维科学", "PartSecID": "B80" },
+        { "PartSec": "B81逻辑学（论理学）", "PartSecID": "B81" },
+        { "PartSec": "B82伦理学（道德哲学）", "PartSecID": "B82" },
+        { "PartSec": "B83美学", "PartSecID": "B83" },
+        { "PartSec": "B84心理学", "PartSecID": "B84" },
+        { "PartSec": "B9宗教", "PartSecID": "B9" }
+      ]
+    },
+    {
+      "PartMain": "C社会科学总论",
+      "PartID": "C",
+      "list": [
+        { "PartSec": "C0社会科学理论与方法论", "PartSecID": "C0" },
+        { "PartSec": "C1社会科学概况、现状、进展", "PartSecID": "C1" },
+        { "PartSec": "C2社会科学机构、团体、会议", "PartSecID": "C2" },
+        { "PartSec": "C3社会科学研究方法", "PartSecID": "C3" },
+        { "PartSec": "C4社会科学教育与普及", "PartSecID": "C4" },
+        { "PartSec": "C5社会科学丛书、文集、连续性出版物", "PartSecID": "C5" },
+        { "PartSec": "C6社会科学参考工具书", "PartSecID": "C6" },
+        { "PartSec": "C7社会科学文献检索工具书", "PartSecID": "C7" },
+        { "PartSec": "C79非书资料、视听资料", "PartSecID": "C79" },
+        { "PartSec": "C8统计学", "PartSecID": "C8" },
+        { "PartSec": "C91社会学", "PartSecID": "C91" },
+        { "PartSec": "C92人口学", "PartSecID": "C92" },
+        { "PartSec": "C93管理学", "PartSecID": "C93" },
+        { "PartSec": "C94系统科学", "PartSecID": "C94" },
+        { "PartSec": "C95民族学、文化人类学", "PartSecID": "C95" },
+        { "PartSec": "C96人才学", "PartSecID": "C96" },
+        { "PartSec": "C97劳动科学", "PartSecID": "C97" }
+      ]
+    },
+    {
+      "PartMain": "D政治、法律",
+      "PartID": "D",
+      "list": [
+        { "PartSec": "D0政治学、政治理论", "PartSecID": "D0" },
+        { "PartSec": "D1国际共产主义运动", "PartSecID": "D1" },
+        { "PartSec": "D2中国共产党", "PartSecID": "D2" },
+        { "PartSec": "D33/37各国共产党", "PartSecID": "D33/37" },
+        { "PartSec": "D4工人、农民、青年、妇女运动与组织", "PartSecID": "D4" },
+        { "PartSec": "D5世界政治", "PartSecID": "D5" },
+        { "PartSec": "D6中国政治", "PartSecID": "D6" },
+        { "PartSec": "D73/77各国政治", "PartSecID": "D73/77" },
+        { "PartSec": "D8外交、国际关系", "PartSecID": "D8" },
+        { "PartSec": "D9法律", "PartSecID": "D9" }
+      ]
+    },
+    {
+      "PartMain": "E军事",
+      "PartID": "E",
+      "list": [
+        { "PartSec": "E0军事理论", "PartSecID": "E0" },
+        { "PartSec": "E1世界军事", "PartSecID": "E1" },
+        { "PartSec": "E2中国军事", "PartSecID": "E2" },
+        { "PartSec": "E3/7各国军事", "PartSecID": "E3/7" },
+        { "PartSec": "E8战略学、战役学、战术学", "PartSecID": "E8" },
+        { "PartSec": "E9军事技术", "PartSecID": "E9" },
+        { "PartSec": "E99军事地形学、军事地理学", "PartSecID": "E99" }
+      ]
+    },
+    {
+      "PartMain": "F经济",
+      "PartID": "F",
+      "list": [
+        { "PartSec": "F0经济学", "PartSecID": "F0" },
+        {
+          "PartSec": "F1世界各国经济概况、经济史、经济地理",
+          "PartSecID": "F1"
+        },
+        { "PartSec": "F2经济管理", "PartSecID": "F2" },
+        { "PartSec": "F3农业经济", "PartSecID": "F3" },
+        { "PartSec": "F4工业经济", "PartSecID": "F4" },
+        { "PartSec": "F49信息产业经济", "PartSecID": "F49" },
+        { "PartSec": "F5交通运输经济", "PartSecID": "F5" },
+        { "PartSec": "F59旅游经济", "PartSecID": "F59" },
+        { "PartSec": "F6邮电通信经济", "PartSecID": "F6" },
+        { "PartSec": "F7贸易经济", "PartSecID": "F7" },
+        { "PartSec": "F8财政、金融", "PartSecID": "F8" }
+      ]
+    },
+    {
+      "PartMain": "G文化、科学、教育、体育",
+      "PartID": "G",
+      "list": [
+        { "PartSec": "G0文化理论", "PartSecID": "G0" },
+        { "PartSec": "G1世界各国文化与文化事业", "PartSecID": "G1" },
+        { "PartSec": "G2信息与知识传播", "PartSecID": "G2" },
+        { "PartSec": "G3科学、科学研究", "PartSecID": "G3" },
+        { "PartSec": "G4教育", "PartSecID": "G4" },
+        { "PartSec": "G8体育", "PartSecID": "G8" }
+      ]
+    },
+    {
+      "PartMain": "H语言、文字",
+      "PartID": "H",
+      "list": [
+        { "PartSec": "H0语言学", "PartSecID": "H0" },
+        { "PartSec": "H1汉语", "PartSecID": "H1" },
+        { "PartSec": "H2中国少数民族语言", "PartSecID": "H2" },
+        { "PartSec": "H3常用外国语", "PartSecID": "H3" },
+        { "PartSec": "H4汉藏语系", "PartSecID": "H4" },
+        { "PartSec": "H5阿尔泰语系(突厥-蒙古-通古斯语系）", "PartSecID": "H5" },
+        { "PartSec": "H61南亚语系（澳斯特罗-亚细亚语系）", "PartSecID": "H61" },
+        {
+          "PartSec": "H62南印语系（达罗毗荼语系、德拉维达语系）",
+          "PartSecID": "H62"
+        },
+        {
+          "PartSec": "H63南岛语系（马来亚-玻里尼西亚语系）",
+          "PartSecID": "H63"
+        },
+        { "PartSec": "H64东北亚诸语言", "PartSecID": "H64" },
+        {
+          "PartSec": "H65高加索语系（伊比利亚-高加索语系）",
+          "PartSecID": "H65"
+        },
+        { "PartSec": "H66乌拉尔语系（芬兰-乌戈尔语系）", "PartSecID": "H66" },
+        { "PartSec": "H67闪-含语系（阿非罗-亚细亚语系）", "PartSecID": "H67" },
+        { "PartSec": "H7印欧语系", "PartSecID": "H7" },
+        { "PartSec": "H81非洲诸语言", "PartSecID": "H81" },
+        { "PartSec": "H83美洲诸语言", "PartSecID": "H83" },
+        { "PartSec": "H84大洋州诸语言", "PartSecID": "H84" },
+        { "PartSec": "H9国际辅助语", "PartSecID": "H9" }
+      ]
+    },
+    {
+      "PartMain": "I文学",
+      "PartID": "I",
+      "list": [
+        { "PartSec": "I0文学理论", "PartSecID": "I0" },
+        { "PartSec": "I1世界文学", "PartSecID": "I1" },
+        { "PartSec": "I2中国文学", "PartSecID": "I2" },
+        { "PartSec": "I3/7各国文学", "PartSecID": "I3/7" }
+      ]
+    },
+    {
+      "PartMain": "J 艺术",
+      "PartID": "J",
+      "list": [
+        { "PartSec": "J0艺术理论", "PartSecID": "J0" },
+        { "PartSec": "J1世界各国艺术概况", "PartSecID": "J1" },
+        { "PartSec": "J19专题艺术与现代边缘艺术", "PartSecID": "J19" },
+        { "PartSec": "J2绘画", "PartSecID": "J2" },
+        { "PartSec": "J29书法、篆刻", "PartSecID": "J29" },
+        { "PartSec": "J3雕塑", "PartSecID": "J3" },
+        { "PartSec": "J4摄影艺术", "PartSecID": "J4" },
+        { "PartSec": "J5工艺美术", "PartSecID": "J5" },
+        { "PartSec": "J59建筑艺术", "PartSecID": "J59" },
+        { "PartSec": "J6音乐", "PartSecID": "J6" },
+        { "PartSec": "J7舞蹈", "PartSecID": "J7" },
+        { "PartSec": "J8戏剧、曲艺、杂技艺术", "PartSecID": "J8" },
+        { "PartSec": "J9电影、电视艺术", "PartSecID": "J9" }
+      ]
+    },
+    {
+      "PartMain": "K 历史、地理",
+      "PartID": "K",
+      "list": [
+        { "PartSec": "K0史学理论", "PartSecID": "K0" },
+        { "PartSec": "K1世界史", "PartSecID": "K1" },
+        { "PartSec": "K2中国史", "PartSecID": "K2" },
+        { "PartSec": "K3亚洲史", "PartSecID": "K3" },
+        { "PartSec": "K4非洲史", "PartSecID": "K4" },
+        { "PartSec": "K5欧洲史", "PartSecID": "K5" },
+        { "PartSec": "K6大洋州史", "PartSecID": "K6" },
+        { "PartSec": "K7美洲史", "PartSecID": "K7" },
+        { "PartSec": "K81传记", "PartSecID": "K81" },
+        { "PartSec": "K85文物考古", "PartSecID": "K85" },
+        { "PartSec": "K89风俗习惯", "PartSecID": "K89" }
+      ]
+    },
+    {
+      "PartMain": "N 自然科学总论",
+      "PartID": "N",
+      "list": [
+        { "PartSec": "N0自然科学理论与方法论", "PartSecID": "N0" },
+        { "PartSec": "N1自然科学概况、现状、进展", "PartSecID": "N1" },
+        { "PartSec": "N2自然科学机构、团体、会议", "PartSecID": "N2" },
+        { "PartSec": "N3自然科学研究方法", "PartSecID": "N3" },
+        { "PartSec": "N4自然科学教育与普及", "PartSecID": "N4" },
+        { "PartSec": "N5自然科学丛书、文集、连续性出版物", "PartSecID": "N5" },
+        { "PartSec": "N6自然科学参考工具书", "PartSecID": "N6" },
+        { "PartSec": "[N7]自然科学文献检索工具", "PartSecID": "[N7]" },
+        { "PartSec": "N79非书资料、视听资料", "PartSecID": "N79" },
+        { "PartSec": "N8自然科学调查、考察", "PartSecID": "N8" },
+        { "PartSec": "N91自然研究、自然历史", "PartSecID": "N91" },
+        { "PartSec": "N93非线性科学", "PartSecID": "N93" },
+        { "PartSec": "N94系统科学", "PartSecID": "N94" },
+        { "PartSec": "[N99]情报学、情报工作", "PartSecID": "[N99]" }
+      ]
+    },
+    {
+      "PartMain": "O 数理科学和化学",
+      "PartID": "O",
+      "list": [
+        { "PartSec": "O1数学", "PartSecID": "O1" },
+        { "PartSec": "O3力学", "PartSecID": "O3" },
+        { "PartSec": "O4物理学", "PartSecID": "O4" },
+        { "PartSec": "O6化学", "PartSecID": "O6" },
+        { "PartSec": "O7晶体学", "PartSecID": "O7" }
+      ]
+    },
+    {
+      "PartMain": "P 天文学、地球科学",
+      "PartID": "P",
+      "list": [
+        { "PartSec": "P1天文学", "PartSecID": "P1" },
+        { "PartSec": "P2测绘学", "PartSecID": "P2" },
+        { "PartSec": "P3地球物理学", "PartSecID": "P3" },
+        { "PartSec": "P4大气科学（气象学）", "PartSecID": "P4" },
+        { "PartSec": "P5地质学", "PartSecID": "P5" },
+        { "PartSec": "P7海洋学", "PartSecID": "P7" },
+        { "PartSec": "P9自然地理学", "PartSecID": "P9" }
+      ]
+    },
+    {
+      "PartMain": "Q 生物科学",
+      "PartID": "Q",
+      "list": [
+        { "PartSec": "Q1普通生物学", "PartSecID": "Q1" },
+        { "PartSec": "Q2细胞生物学", "PartSecID": "Q2" },
+        { "PartSec": "Q3遗传学", "PartSecID": "Q3" },
+        { "PartSec": "Q4生理学", "PartSecID": "Q4" },
+        { "PartSec": "Q5生物化学", "PartSecID": "Q5" },
+        { "PartSec": "Q6生物物理学", "PartSecID": "Q6" },
+        { "PartSec": "Q7分子生物学", "PartSecID": "Q7" },
+        { "PartSec": "Q81生物工程学（生物技术）", "PartSecID": "Q81" },
+        { "PartSec": "Q89环境生物学", "PartSecID": "Q89" },
+        { "PartSec": "Q91古生物学", "PartSecID": "Q91" },
+        { "PartSec": "Q93微生物学", "PartSecID": "Q93" },
+        { "PartSec": "Q94植物学", "PartSecID": "Q94" },
+        { "PartSec": "Q95动物学", "PartSecID": "Q95" },
+        { "PartSec": "Q96昆虫学", "PartSecID": "Q96" },
+        { "PartSec": "Q98人类学", "PartSecID": "Q98" }
+      ]
+    },
+    {
+      "PartMain": "R 医药、卫生",
+      "PartID": "R",
+      "list": [
+        { "PartSec": "R1预防医学、卫生学", "PartSecID": "R1" },
+        { "PartSec": "R2中国医学", "PartSecID": "R2" },
+        { "PartSec": "R3基础医学", "PartSecID": "R3" },
+        { "PartSec": "R4临床医学", "PartSecID": "R4" },
+        { "PartSec": "R5内科学", "PartSecID": "R5" },
+        { "PartSec": "R6外科学", "PartSecID": "R6" },
+        { "PartSec": "R71妇产科学", "PartSecID": "R71" },
+        { "PartSec": "R72儿科学", "PartSecID": "R72" },
+        { "PartSec": "R73肿瘤学", "PartSecID": "R73" },
+        { "PartSec": "R74神经病学与精神病学", "PartSecID": "R74" },
+        { "PartSec": "R75皮肤病学与性病学", "PartSecID": "R75" },
+        { "PartSec": "R76耳鼻咽喉科学", "PartSecID": "R76" },
+        { "PartSec": "R77眼科学", "PartSecID": "R77" },
+        { "PartSec": "R78口腔科学", "PartSecID": "R78" },
+        { "PartSec": "R79外国民族医学", "PartSecID": "R79" },
+        { "PartSec": "R8特种医学", "PartSecID": "R8" },
+        { "PartSec": "R9药学", "PartSecID": "R9" }
+      ]
+    },
+    {
+      "PartMain": "S 农业科学",
+      "PartID": "S",
+      "list": [
+        { "PartSec": "S1农业基础科学", "PartSecID": "S1" },
+        { "PartSec": "S2农业工程", "PartSecID": "S2" },
+        { "PartSec": "S3农学（农艺学）", "PartSecID": "S3" },
+        { "PartSec": "S4植物保护", "PartSecID": "S4" },
+        { "PartSec": "S5农作物", "PartSecID": "S5" },
+        { "PartSec": "S6园艺", "PartSecID": "S6" },
+        { "PartSec": "S7林业", "PartSecID": "S7" },
+        { "PartSec": "S8畜牧、 动物医学、狩猎、蚕、蜂", "PartSecID": "S8" },
+        { "PartSec": "S9水产、渔业", "PartSecID": "S9" }
+      ]
+    },
+    {
+      "PartMain": "T 工业技术",
+      "PartID": "T",
+      "list": [
+        { "PartSec": "TB一般工业技术", "PartSecID": "TB" },
+        { "PartSec": "TD矿业工程", "PartSecID": "TD" },
+        { "PartSec": "TE石油、天然气工业", "PartSecID": "TE" },
+        { "PartSec": "TF冶金工业", "PartSecID": "TF" },
+        { "PartSec": "TG金属学与金属工艺", "PartSecID": "TG" },
+        { "PartSec": "TH机械、仪表工业", "PartSecID": "TH" },
+        { "PartSec": "TJ武器工业", "PartSecID": "TJ" },
+        { "PartSec": "TK能源与动力工程", "PartSecID": "TK" },
+        { "PartSec": "TL原子能技术", "PartSecID": "TL" },
+        { "PartSec": "TM电工技术", "PartSecID": "TM" },
+        { "PartSec": "TN电子技术、通信技术", "PartSecID": "TN" },
+        { "PartSec": "TP自动化技术、计算机技术", "PartSecID": "TP" },
+        { "PartSec": "TQ化学工业", "PartSecID": "TQ" },
+        { "PartSec": "TS轻工业、手工业、生活服务业", "PartSecID": "TS" },
+        { "PartSec": "TU建筑科学", "PartSecID": "TU" },
+        { "PartSec": "TV水利工程", "PartSecID": "TV" }
+      ]
+    },
+    {
+      "PartMain": "U 交通运输",
+      "PartID": "U",
+      "list": [
+        { "PartSec": "U1综合运输", "PartSecID": "U1" },
+        { "PartSec": "U2铁路运输", "PartSecID": "U2" },
+        { "PartSec": "U4公路运输", "PartSecID": "U4" },
+        { "PartSec": "U6水路运输", "PartSecID": "U6" },
+        { "PartSec": "[U8]航空运输", "PartSecID": "[U8]" }
+      ]
+    },
+    {
+      "PartMain": "V 航空、航天",
+      "PartID": "V",
+      "list": [
+        { "PartSec": "V1航空、航天技术的研究与探索", "PartSecID": "V1" },
+        { "PartSec": "V2航空", "PartSecID": "V2" },
+        { "PartSec": "V4航天（宇宙航行）", "PartSecID": "V4" },
+        { "PartSec": "[V7]航空、航天医学", "PartSecID": "[V7]" }
+      ]
+    },
+    {
+      "PartMain": "X 环境科学、安全科学",
+      "PartID": "X",
+      "list": [
+        { "PartSec": "X1环境科学基础理论", "PartSecID": "X1" },
+        { "PartSec": "X2社会与环境", "PartSecID": "X2" },
+        { "PartSec": "X3环境保护管理", "PartSecID": "X3" },
+        { "PartSec": "X4灾害及其防治", "PartSecID": "X4" },
+        { "PartSec": "X5环境污染及其防治", "PartSecID": "X5" },
+        { "PartSec": "X7行业污染、废物处理与综合利用", "PartSecID": "X7" },
+        { "PartSec": "X8环境质量评价与环境监测", "PartSecID": "X8" },
+        { "PartSec": "X9安全科学", "PartSecID": "X9" }
+      ]
+    },
+    {
+      "PartMain": "Z 综合性图书",
+      "PartID": "Z",
+      "list": [
+        { "PartSec": "Z1丛书", "PartSecID": "Z1" },
+        { "PartSec": "Z2百科全书、类书", "PartSecID": "Z2" },
+        { "PartSec": "Z3辞典", "PartSecID": "Z3" },
+        { "PartSec": "Z4论文集、全集、选集、杂著", "PartSecID": "Z4" },
+        { "PartSec": "Z5年鉴、年刊", "PartSecID": "Z5" },
+        { "PartSec": "Z6期刊、连续性出版物", "PartSecID": "Z6" },
+        { "PartSec": "Z8图书报刊目录、文摘、索引", "PartSecID": "Z8" }
+      ]
+    }
+  ]
+}

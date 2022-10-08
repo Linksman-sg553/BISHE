@@ -1,0 +1,11 @@
+server:
+  port: 4567
+datasource:
+  driverName: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: comment_system
+  username: root
+  password: gefu1128
+  charset: utf8
+  loc: Asia/Shanghai
